@@ -1,0 +1,1 @@
+export const PROMPT_SCORE_THRESHOLD = 8

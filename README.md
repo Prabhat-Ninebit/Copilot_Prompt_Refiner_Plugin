@@ -1,0 +1,2 @@
+c:\Users\ninebit\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{A600AF97-C5DD-4338-A25E-339389F7141A}.png
+![markdown_image]({A600AF97-C5DD-4338-A25E-339389F7141A}.png)
